@@ -1,0 +1,500 @@
+  170  ls
+  171  ls
+  172  pwd
+  173  ls
+  174  node index.js 
+  175  vi package.json 
+  176  ps aux | grep node
+  177  killall node
+  178  node index.js 
+  179  ls
+  180  cd ../vaubhav/
+  181  ls
+  182  cd Chatbots-master
+  183  ls
+  184  node index.js
+  185  pwd
+  186  npm install
+  187  ls
+  188  node index.js 
+  189  docker pull suryavampire/flashfood
+  190  docker run -p 5000:5000 suryavampire/flashfood
+  191  curl http://localhost:4000
+  192  docker container ls
+  193  docker images
+  194  docker container ls
+  195  docker images ls
+  196  docker images ls
+  197  docker container ps
+  198  docker images ls
+  199  docker
+  200  ls
+  201  cd Documents/
+  202  ls
+  203  cd docker/
+  204  ;s
+  205  cd sarthak_project/
+  206  ls
+  207  ls -lrt
+  208  ls
+  209  vi index.js 
+  210  ls
+  211  pwd
+  212  cd ..
+  213  ls
+  214  cd vaubhav/
+  215  ls
+  216  cd Flashfood-master
+  217  ls
+  218  docker build --tag=friends
+  219  docker build --tag=friends .
+  220  docker image
+  221  docker image ls
+  222  docker container
+  223  docker container ls
+  224  docker run -p 5000:80 friends
+  225  pwd
+  226  docker build --tag=friends .
+  227  docker run -p 5000:80 friends
+  228  docker images ps
+  229  docker images ls
+  230  docker build --tag=friends .
+  231  ls
+  232  pwd
+  233  cd ../..
+  234  pwd
+  235  ls
+  236  cd final/
+  237  ls
+  238  cd testapi/
+  239  ls
+  240  npm install
+  241  node index.js
+  242  node index.js
+  243  vi index.js 
+  244  node index.js
+  245  node index.js
+  246  node index.js
+  247  node index.js
+  248  node index.js
+  249  mysql
+  250  npm install mysql
+  251  mysql
+  252  vi demo_db_connection.js
+  253  node demo_db_connection.js 
+  254  vi demo_db_connection.js
+  255  node demo_db_connection.js 
+  256  vi demo_db_connection.js
+  257  node demo_db_connection.js 
+  258  vi demo_db_connection.js
+  259  node demo_db_connection.js 
+  260  /usr/local/mysql/bin/mysql -uroot -p
+  261  pwd
+  262  /usr/local/mysql/bin/mysql -uroot -p
+  263  cd /Users/akshat/Documents/docker/final/testapi/db_stuff
+  264  ls
+  265  docker container ls
+  266  docker images
+  267  docker container ps
+  268  docker container ps
+  269  docker logs mysql
+  270  ls
+  271  vi init_db.sql 
+  272  docker container ps
+  273  docker container ps
+  274  docker logs mysql
+  275  docker ps
+  276  ifconfig
+  277  mysql -u root -p -h 172.16.144.211 -P 3306 -D SwacchIITB
+  278  docker images
+  279  cd ..
+  280  ls
+  281  docker build -t test-nodejs .
+  282  docker images
+  283  docker container ps
+  284  docker container ps
+  285  docker container ps
+  286  docker container ps
+  287  docker container ps
+  288  docker container ps
+  289  docker container ps
+  290  docker container ps
+  291  docker container ps
+  292  /usr/local/mysql/bin/mysql -uroot -p
+  293  cd Documents/
+  294  ls
+  295  cd docker/
+  296  ls
+  297  cd final/
+  298  ls
+  299  cd testapi/
+  300  ls
+  301  ls
+  302  node index.js 
+  303  ls
+  304  pwd
+  305  vi Dockerfile
+  306  vi Dockerfile
+  307  vi Dockerfile
+  308  ls
+  309  vi .dockerignore
+  310  docker build -t akshat7593/node-web-app .
+  311  docker images
+  312  docker run -p 49160:4000 -d akshat7593/node-web-app
+  313  docker ps
+  314  docker run -p 49160:4000 -d akshat7593/node-web-app
+  315  curl -i localhost:49160
+  316  docker run -p 49160:4000 akshat7593/node-web-app
+  317  ls
+  318  vi index.js 
+  319  cd /Applications/XAMPP/
+  320  ls
+  321  ls
+  322  cd /Users/akshat/Documents/
+  323  ls
+  324  cd docker/
+  325  ls
+  326  ls
+  327  cd final/
+  328  ls
+  329  cd testapi/
+  330  ls
+  331  docker run -p 49160:4000 akshat7593/node-web-app
+  332  telent localhost 3306
+  333  /usr/local/mysql/bin/mysql -uroot -p
+  334  /usr/local/mysql/bin/mysql -uroot -p
+  335  docker run -p 49160:4000 akshat7593/node-web-app
+  336  vi index.js 
+  337  docker run -p 49160:4000 akshat7593/node-web-app
+  338  docker build -t akshat7593/node-web-app .
+  339  docker run -p 49160:4000 akshat7593/node-web-app
+  340  node index.js 
+  341  sudo /usr/local/mysql/bin/mysqld_safe
+  342  docker run -p 49160:4000 akshat7593/node-web-app
+  343  node index.js 
+  344  mysql.server start
+  345  netstat -ap tcp | grep -i "listen"
+  346  docker run -p 49160:4000 akshat7593/node-web-app
+  347  vi index.js 
+  348  node index.js 
+  349  docker run -p 49160:4000 akshat7593/node-web-app
+  350  ls
+  351  vi Dockerfile 
+  352  docker build -t akshat7593/node-web-app .
+  353  docker run -p 49160:4000 akshat7593/node-web-app
+  354  cd /usr/src
+  355  cd /usr
+  356  ls
+  357  docker images
+  358  docker run -p 49160:4000 akshat7593/node-web-app
+  359  docker port test
+  360  curl -i localhost:49160
+  361  ls
+  362  ls
+  363  mkdir my-mysql
+  364  ls
+  365  cd /Users
+  366  docker pull shubham1194/chatbotapp
+  367  docker images
+  368  docker run -p 49180:4000 shubham1194/chatbotapp
+  369  ls
+  370  cd akshat/
+  371  ls
+  372  cd Documents/
+  373  ls
+  374  cd docker/
+  375  ls
+  376  cd final/
+  377  ls
+  378  cd testapi/
+  379  ls
+  380  node i
+  381  node index.js 
+  382  npm install mysql
+  383  ls
+  384  mkdir db_stuff
+  385  cd db_stuff/
+  386  vi Dockerfile
+  387  vi init_db.sql
+  388  cat init_db.sql
+  389  vi init_db.sql
+  390  cd ..
+  391  history
+  392  ls
+  393  cd db_stuff/
+  394  ls
+  395  docker build -t mysql .
+  396  docker images
+  397  vi Dockerfile 
+  398  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql/mysql-server
+  399  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  400  docker container
+  401  docker container ps
+  402  docker-compose -v
+  403  cd ..
+  404  ls
+  405  cd db_stuff/
+  406  ls
+  407  vi Dockerfile 
+  408  docker build -t mysql .
+  409  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  410  pwd
+  411  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  412  docker rm d9936f3ea0426af4da38deee3b11d820ef3ac59863fdc42a01bfc42d7f2c80c0
+  413  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  414  docker build -t mysql .
+  415  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  416  docker rm 4f09f657c65dcdfc84966115983dcd406d0004bb4f7ba7ca8b724f49239915e7
+  417  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  418  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  419  docker rm 7f21afd20940953ba23613a5f8ff3e63af833bc0fa7f4c5fd1fc1333c4f8999d
+  420  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  421  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  422  docker rm e86b7e3a0ada6e3b86c9ec9924b001c4a70507379997c7cfc966afe0e2f4caab
+  423  docker inspect mysql | grep IPAddress
+  424  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  425  docker inspect mysql | grep IPAddress
+  426  docker inspect mysql | grep IPAddress
+  427  docker inspect mysql | grep IPAddress
+  428  docker inspect mysql | grep IPAddress
+  429  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  430  docker rm e36135910b30342c116b612600fc38067372969555beed34d1911e1cbecc9429
+  431  cd ..
+  432  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  433  docker inspect mysql | grep IPAddress
+  434  docker inspect mysql | grep IPAddress
+  435  docker inspect mysql | grep IPAddre
+  436  docker inspect mysql | grep IPAddress
+  437  docker inspect mysql | grep IPAddress
+  438  docker inspect mysql | grep IPAddress
+  439  docker inspect mysql | grep IPAddress
+  440  docker run  -d --publish 4000:4000 -e MYSQL_USER='root' -e MYSQL_PASSWORD='Aks@253854' -e MYSQL_DATABASE='SwacchIITB' -e MYSQL_HOST='172.17.0.2' --link mysql:db --name=test-nodejs-microservice test-nodejs
+  441  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -d mysql
+  442  docker rm 9e9328a1267cbed48281af7dc922649666e94f33899138df858890ab13d4cf29
+  443  docker run  -d --publish 4000:4000 -e MYSQL_USER='root' -e MYSQL_PASSWORD='Aks@253854' -e MYSQL_DATABASE='SwacchIITB' -e MYSQL_HOST='172.17.0.2' --link mysql:db --name=test-nodejs-microservice test-nodejs
+  444  docker rm f2204973c19873e95363acf1735b902c12901b0bd3e85cd9807403b488d87a8f
+  445  docker run  -d --publish 4000:4000 -e MYSQL_USER='root' -e MYSQL_PASSWORD='Aks@253854' -e MYSQL_DATABASE='SwacchIITB' -e MYSQL_HOST='172.17.0.2' --link mysql:db --name=test-nodejs-microservice test-nodejs
+  446  docker container ps
+  447  docker run --name=mysql -d mysql
+  448  docker rm 98f8d0eb55fd5eac7f4df9bbda1884b97bd8db49b38c162d76adeb189dbc0000
+  449  docker run --name=mysql -d mysql
+  450  docker container ps
+  451  docker container ps
+  452  docker container ps
+  453  docker container ps
+  454  docker container ps
+  455  docker container ps
+  456  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks#253854' -d mysql
+  457  docker rm 9ed0c1bfad7d8d617ea980e1bea809b8ebbf2fd3ad1b1df2c7043eb0cee736cd
+  458  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks#253854' -d mysql
+  459  docker container ps
+  460  docker container ps
+  461  docker container ps
+  462  docker container ps
+  463  docker container ps
+  464  docker container ps
+  465  docker container ps
+  466  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3306:3306 -d mysql
+  467  docker rm 9ed0c1bfad7d8d617ea980e1bea809b8ebbf2fd3ad1b1df2c7043eb0cee736cd
+  468  docker rm c475a27a661464ee9d517a5d60fa1157280ced46d30e5f326451b2d0103b8613
+  469  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3306:3306 -d mysql
+  470  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3307:3307 -d mysql
+  471  docker rm 000d6d8fa41fdd58e948953a937d8cdabdd5d43ae5a74189be9cfe440346b3c0
+  472  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3307:3307 -d mysql
+  473  docker container ps
+  474  docker container ps
+  475  cd /Users/akshat/Documents/docker
+  476  ls
+  477  vi vaubhav/
+  478  ls
+  479  vi Dockerfile 
+  480  cd vaubhav/
+  481  ls
+  482  cd Flashfood-master
+  483  ls
+  484  vi Dockerfile 
+  485  ls
+  486  cd ..
+  487  ls
+  488* docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3306:3306 -d mysql
+  489  cd Chatbots-master
+  490  ls
+  491  vi Dockerfile 
+  492  cd ../Flashfood-master
+  493  ls
+  494  vi Dockerfile 
+  495  cd ..
+  496  ls
+  497  cd Chatbots-master
+  498  ls
+  499  vi Dockerfile 
+  500  docker history
+  501  history
+  502  cd Documents/docker/
+  503  ls
+  504  cd final/
+  505  cd testapi/
+  506  ls
+  507  cd db_stuff/
+  508  ls
+  509  docker build -t mysql .
+  510  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3307:3306 -d mysql
+  511  docker rm 68f7bbfc5ee2d780ccbdb4c7ac23b9524112134635fb634243ca96c9a50223c1
+  512  docker run -d --name=mysql -e MYSQL_ROOT_PASSWORD='Aks@253854' -p 3307:3306 -d mysql
+  513  docker container ps
+  514  docker container ps
+  515  docker container ps
+  516  docker run --detach --name=test-mysql -p 52000:3306  --env="MYSQL_ROOT_PASSWORD=Aks@253854" mysql
+  517  docker container ps
+  518  docker container ps
+  519  docker container ps
+  520  docker run --detach --name=test-mysql -p 52000:3306  --env="MYSQL_ROOT_PASSWORD=Aks@253854" mysql
+  521  docker rm 1a0ef12210bd1d408539c55bdda9928b129662365278802d1946c3cb0fe41bbc
+  522  docker run --detach --name=test-mysql -p 52000:3306  --env="MYSQL_ROOT_PASSWORD=Aks@253854" mysql
+  523  docker container ps
+  524  docker container ps
+  525  ls
+  526  cd ..
+  527  ls
+  528  mkdir medium
+  529  cd medium/
+  530  ls
+  531  mkdir scripts
+  532  cd scripts
+  533  vi CreateTable.sql
+  534  vi InsertData.sql
+  535  tree
+  536  ls
+  537  cd ..
+  538  ls
+  539  vi Dockerfile
+  540  docker build -t my-mysql .
+  541  docker build -t my-mysql .
+  542  vi Dockerfile
+  543  docker build -t my-mysql .
+  544  docker run -d -p 3306:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=supersecret my-mysql
+  545  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=supersecret my-mysql
+  546  docker images
+  547  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=supersecret my-mysql
+  548  docker rm 82e0b3afcf7822c6d08654d4f674363c983bc901d551960a254e334adeca8945
+  549  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=supersecret my-mysql
+  550  docker container ps
+  551  docker container ps
+  552  docker container ps
+  553  docker container ps
+  554  docker exec -it my-mysql bash
+  555  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 my-mysql
+  556  docker rm dde6e2de0cf2c32a3de0bfb939167a02c9af32d965b9c8df572b16e6efc463b8
+  557  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 my-mysql
+  558  docker container ps
+  559  docker rm 2016f0ccd4e83d03eacda049109c2b8ae3876269d7b0e6ae15b6c51a26aac107
+  560  docker run -d -p 3306:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 my-mysql
+  561  docker run -dit -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 my-mysql
+  562  docker rm b37b8c759236060f40a34ecbf3db414638fcd2c649e38f2dda41dca641e665ae
+  563  docker run -dit -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 my-mysql
+  564  docker container ps
+  565  docker ps -a
+  566  docker ps -a
+  567  docker container ps
+  568  ls
+  569  vi Dockerfile 
+  570  docker logs d04a7b14dfd9
+  571  ls
+  572  vi Dockerfile 
+  573  docker ps -a
+  574  docker images
+  575  docker rmi e83c7cf41975
+  576  docker rmi 4e4252095c1c
+  577  docker rmi 4e4252095c1c --force
+  578  docker rmi e83c7cf41975 --force
+  579  docker rmi 4e4252095c1c --force
+  580  docker images
+  581  docker build -t mysql .
+  582  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 my-mysql
+  583  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 mysql
+  584  docker rm d04a7b14dfd9bb9cb64eba92c84f83d52022b5ec111e78efb7f2a8dc2d4a2d6a
+  585  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 mysql
+  586  docker container ps
+  587  docker container ps
+  588  docker container ps
+  589  docker container ps
+  590  docker container ps
+  591  docker container ps
+  592  docker container ps
+  593  docker container ps
+  594  docker container ps
+  595  docker container ps
+  596  docker container ps
+  597  docker container ps
+  598  docker container ps
+  599  docker container ps
+  600  docker stop 696c1d34ad1c
+  601  docker rm 696c1d34ad1c
+  602  docker images
+  603  docker rmi e0c9ba0d7966
+  604  docker images
+  605  ls
+  606  cd ..
+  607  cd db_stuff/
+  608  ls
+  609  vi init_db.sql 
+  610  docker build -t mysql .
+  611  docker run -d -p 3307:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 mysql
+  612  docker container ps
+  613  docker container ps
+  614  docker container ps
+  615  docker container ps
+  616  docker container ps
+  617  docker container ps
+  618  docker container ps
+  619  docker container ps
+  620  docker container ps
+  621  docker container ps
+  622  docker container ps
+  623  docker container ps
+  624  docker container ps
+  625  docker container ps
+  626  docker container ps
+  627  docker exec -it mysql bash
+  628  docker container ps
+  629  docker exec -it mysql bash
+  630  docker container ps
+  631  docker logs cedc0ee1228b
+  632  docker container ps
+  633  docker stop cedc0ee1228b
+  634  docker container ps
+  635  docker rm cedc0ee1228b
+  636  docker images
+  637  docker run -d -p 3306:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 mysql
+  638  docker run -d -p 3308:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 mysql
+  639  pwd
+  640  docker rm fef8e126b675ee222daea99522dbde0d34e1c3571405dd3f3e235e214cdcba5d
+  641  docker run -d -p 3308:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=Aks@253854 mysql
+  642  docker container ps
+  643  docker container ps
+  644  docker container ps
+  645  docker container ps
+  646  docker container ps
+  647  docker container ps
+  648  docker container ps
+  649  docker container ps
+  650  docker exec -it mysql bash
+  651  docker exec -it 7d8922e0bf58 /bin/bash 
+  652* 
+  653  docker exec -it 7d8922e0bf58 /bin/bash 
+  654  docker inspect bcc24587215d | grep '"IPAddress"' | head -n 1
+  655  docker container ps
+  656  docker container ps -a
+  657  docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' bcc24587215d
+  658  docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' 845eb867a60f
+  659  ls
+  660  pwd
+  661  cd ../..
+  662  pwd
+  663  cd testapi/
+  664  ls
+  665* 
+  666  vi docker-compose.yml 
+  667  node -v
+  668  history
+  669  history >>a.txt
