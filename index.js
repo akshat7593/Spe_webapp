@@ -200,15 +200,7 @@ app.post('/cleaning', function (req, res) {
 
 
 		  }
-
-
-
-
-
-
-		  });
-
-  	
+});
 
 })
 

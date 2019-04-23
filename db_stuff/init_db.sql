@@ -48,9 +48,9 @@ DROP TABLE IF EXISTS `cleaning`;
 CREATE TABLE IF NOT EXISTS `cleaning` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `room_number` int(11) NOT NULL,
-  `time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `time` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
   `performance` int(11) NOT NULL,
-  `date` date DEFAULT NULL,
+  `date` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
   `type` int(11) NOT NULL,
   `worker_id` int(10) NOT NULL,
   PRIMARY KEY (`id`),
