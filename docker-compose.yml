@@ -21,8 +21,7 @@ services:
           ports:
             - "3306:3306"
           volumes:
-            - "mysql-log:/var/log/mysql"
-            - "mysql-conf:/etc/mysql/conf.d"
+            - ./data:/var/log/mysql
           restart: unless-stopped
           command: mysqld --general-log=1 --general-log-file=/var/log/mysql/general-log.log
           env_file:

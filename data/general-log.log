@@ -1,0 +1,368 @@
+mysqld, Version: 5.7.25-log (MySQL Community Server (GPL)). started with:
+Tcp port: 0  Unix socket: /var/run/mysqld/mysqld.sock
+Time                 Id Command    Argument
+2019-04-23T14:51:11.506400Z	    2 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:51:11.508639Z	    2 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:51:14.970439Z	    3 Connect	root@172.19.0.3 on SwacchIITB using TCP/IP
+2019-04-23T14:51:41.817886Z	    4 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:51:41.820343Z	    4 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:52:12.351778Z	    5 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:52:12.352332Z	    5 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:52:31.807837Z	    3 Query	SELECT * FROM `student` WHERE `Email`="akshat.agrawal@iiitb.org" or `RollNo`="MT2018089"
+2019-04-23T14:52:42.644961Z	    6 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:52:42.654347Z	    6 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:52:53.745786Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T14:53:12.855511Z	    7 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:53:12.856160Z	    7 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:53:43.007277Z	    8 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:53:43.008070Z	    8 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:54:13.178731Z	    9 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:54:13.179598Z	    9 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:54:43.323923Z	   10 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:54:43.324668Z	   10 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:55:13.484107Z	   11 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:55:13.484707Z	   11 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:55:43.782165Z	   12 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:55:43.783852Z	   12 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:56:14.003962Z	   13 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:56:14.004573Z	   13 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:56:44.248043Z	   14 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:56:44.390467Z	   14 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:57:14.848431Z	   15 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:57:14.849151Z	   15 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:57:45.033870Z	   16 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:57:45.034423Z	   16 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:58:15.185231Z	   17 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:58:15.186170Z	   17 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:58:45.339241Z	   18 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:58:45.339791Z	   18 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:59:15.529300Z	   19 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:59:15.529956Z	   19 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T14:59:45.739738Z	   20 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T14:59:45.741968Z	   20 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:00:15.941694Z	   21 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:00:15.942307Z	   21 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:00:46.129798Z	   22 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:00:46.130374Z	   22 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:01:16.314532Z	   23 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:01:16.315944Z	   23 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:01:46.512137Z	   24 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:01:46.514087Z	   24 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:02:16.712964Z	   25 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:02:16.714557Z	   25 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:02:46.915522Z	   26 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:02:46.917270Z	   26 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:03:17.137597Z	   27 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:03:17.139475Z	   27 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:03:47.292188Z	   28 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:03:47.294350Z	   28 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:04:17.469490Z	   29 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:04:17.472164Z	   29 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:04:47.643886Z	   30 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:04:47.645631Z	   30 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:05:17.838049Z	   31 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:05:17.839520Z	   31 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:05:47.988729Z	   32 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:05:47.989226Z	   32 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:06:18.142008Z	   33 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:06:18.143458Z	   33 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:06:48.308759Z	   34 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:06:48.310519Z	   34 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:07:18.466888Z	   35 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:07:18.468492Z	   35 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:07:48.624164Z	   36 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:07:48.626148Z	   36 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:08:18.818970Z	   37 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:08:18.821128Z	   37 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:08:48.984650Z	   38 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:08:48.985263Z	   38 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:09:19.133918Z	   39 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:09:19.134508Z	   39 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:09:49.292985Z	   40 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:09:49.294721Z	   40 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:10:19.459816Z	   41 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:10:19.461471Z	   41 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:10:49.626608Z	   42 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:10:49.628270Z	   42 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:11:19.808648Z	   43 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:11:19.810520Z	   43 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:11:49.988716Z	   44 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:11:49.990322Z	   44 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:12:20.173547Z	   45 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:12:20.175451Z	   45 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:12:50.494764Z	   46 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:12:50.499971Z	   46 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:13:20.771923Z	   47 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:13:20.774536Z	   47 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:13:51.002862Z	   48 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:13:51.003852Z	   48 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:14:21.210022Z	   49 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:14:21.211576Z	   49 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:14:51.448704Z	   50 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:14:51.449605Z	   50 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:15:21.632348Z	   51 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:15:21.633948Z	   51 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:15:51.828729Z	   52 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:15:51.831247Z	   52 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:16:22.029515Z	   53 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:16:22.032700Z	   53 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:16:52.259737Z	   54 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:16:52.261473Z	   54 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:17:22.439590Z	   55 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:17:22.441068Z	   55 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:17:52.601958Z	   56 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:17:52.603639Z	   56 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:18:22.784329Z	   57 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:18:22.785290Z	   57 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:18:52.941834Z	   58 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:18:52.942479Z	   58 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:19:23.092982Z	   59 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:19:23.094534Z	   59 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:19:53.256491Z	   60 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:19:53.258192Z	   60 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:20:23.402488Z	   61 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:20:23.404123Z	   61 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:20:53.553044Z	   62 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:20:53.554595Z	   62 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:21:23.698808Z	   63 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:21:23.700513Z	   63 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:21:53.829866Z	   64 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:21:53.838646Z	   64 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:22:24.007630Z	   65 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:22:24.009285Z	   65 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:22:54.201090Z	   66 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:22:54.203771Z	   66 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:23:24.437766Z	   67 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:23:24.439430Z	   67 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:23:54.667760Z	   68 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:23:54.670215Z	   68 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:24:24.934845Z	   69 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:24:24.937037Z	   69 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:24:55.107720Z	   70 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:24:55.108349Z	   70 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:25:25.287501Z	   71 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:25:25.289256Z	   71 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:25:55.442669Z	   72 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:25:55.444181Z	   72 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:26:25.608295Z	   73 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:26:25.610091Z	   73 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:26:55.761227Z	   74 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:26:55.762920Z	   74 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:27:25.937349Z	   75 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:27:25.939273Z	   75 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:27:54.230457Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:27:54.891172Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:27:55.129020Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:27:55.700042Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:27:55.968231Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:27:56.176192Z	   76 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:27:56.195057Z	   76 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:27:56.255193Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:28:26.396132Z	   77 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:28:26.397772Z	   77 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:28:56.526006Z	   78 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:28:56.528792Z	   78 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:29:26.699023Z	   79 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:29:26.700566Z	   79 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:29:56.905843Z	   80 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:29:56.907939Z	   80 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:30:27.057005Z	   81 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:30:27.058700Z	   81 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:30:57.205545Z	   82 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:30:57.207007Z	   82 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:31:27.340865Z	   83 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:31:27.342691Z	   83 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:31:39.049186Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:31:57.505240Z	   84 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:31:57.506068Z	   84 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:32:27.684222Z	   85 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:32:27.684761Z	   85 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:32:57.828121Z	   86 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:32:57.828925Z	   86 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:33:28.010558Z	   87 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:33:28.012045Z	   87 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:33:58.218158Z	   88 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:33:58.218829Z	   88 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:34:28.406657Z	   89 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:34:28.407699Z	   89 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:34:58.581769Z	   90 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:34:58.582761Z	   90 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:35:06.615448Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:35:06.956479Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:35:07.101439Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:35:07.405979Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:35:28.805935Z	   91 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:35:28.806606Z	   91 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:35:59.162243Z	   92 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:35:59.163728Z	   92 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:36:29.356765Z	   93 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:36:29.357327Z	   93 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:36:59.504753Z	   94 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:36:59.505397Z	   94 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:37:29.645824Z	   95 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:37:29.646560Z	   95 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:37:59.909687Z	   96 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:37:59.917570Z	   96 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:38:30.133874Z	   97 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:38:30.134514Z	   97 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:39:00.268322Z	   98 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:39:00.268926Z	   98 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:39:30.449392Z	   99 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:39:30.453444Z	   99 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:40:00.667408Z	  100 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:40:00.668045Z	  100 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:40:30.768493Z	  101 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:40:30.769252Z	  101 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:41:00.915556Z	  102 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:41:00.916068Z	  102 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:41:31.069295Z	  103 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:41:31.069835Z	  103 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:42:01.214022Z	  104 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:42:01.214615Z	  104 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:42:31.396030Z	  105 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:42:31.396672Z	  105 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:43:01.592191Z	  106 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:43:01.592771Z	  106 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:43:31.852035Z	  107 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:43:31.853112Z	  107 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:44:02.184035Z	  108 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:44:02.184623Z	  108 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:44:32.416516Z	  109 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:44:32.417278Z	  109 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:44:33.069364Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:44:33.367513Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:44:33.542074Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:44:33.796039Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:44:34.099712Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:44:34.446324Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T15:45:02.581645Z	  110 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:45:02.582240Z	  110 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:45:32.742459Z	  111 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:45:32.758242Z	  111 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T15:46:02.978745Z	  112 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T15:46:02.979805Z	  112 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:42:55.382596Z	  113 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:42:55.383528Z	  113 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:43:25.671719Z	  114 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:43:25.686822Z	  114 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:43:55.895356Z	  115 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:43:55.896086Z	  115 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:44:26.549952Z	  116 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:44:26.551643Z	  116 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:44:56.687434Z	  117 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:44:56.688227Z	  117 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:47:40.639714Z	  118 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:47:40.648263Z	  118 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:48:11.278004Z	  119 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:48:11.279961Z	  119 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:48:41.812345Z	  120 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:48:41.816890Z	  120 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:49:12.731617Z	  121 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:49:12.733091Z	  121 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:49:43.232502Z	  122 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:49:43.233641Z	  122 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:50:13.875588Z	  123 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:50:13.877089Z	  123 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:50:44.364271Z	  124 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:50:44.366246Z	  124 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:51:14.866906Z	  125 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:51:14.867659Z	  125 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:51:45.163075Z	  126 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:51:45.175670Z	  126 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:52:15.388648Z	  127 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:52:15.389783Z	  127 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:52:45.569567Z	  128 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:52:45.606469Z	  128 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:53:15.792281Z	  129 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:53:15.793161Z	  129 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:53:45.988460Z	  130 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:53:45.989292Z	  130 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:54:16.173143Z	  131 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:54:16.175705Z	  131 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:54:46.375166Z	  132 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:54:46.375803Z	  132 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:55:16.551308Z	  133 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:55:16.552395Z	  133 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:55:25.874976Z	    3 Query	SELECT * FROM `student` WHERE `Password`="ce788a187a1291587a8f86a3b6b8a9c4" and `RollNo`="MT2018089"
+2019-04-23T16:55:46.765208Z	  134 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:55:46.766023Z	  134 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:56:16.948960Z	  135 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:56:16.949624Z	  135 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:56:47.085455Z	  136 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:56:47.086037Z	  136 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:57:17.238580Z	  137 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:57:17.239327Z	  137 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:57:47.437082Z	  138 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:57:47.437702Z	  138 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:58:17.688472Z	  139 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:58:17.691072Z	  139 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:58:47.851638Z	  140 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:58:47.852186Z	  140 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:59:18.048257Z	  141 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:59:18.049734Z	  141 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T16:59:48.213503Z	  142 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T16:59:48.215417Z	  142 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:00:18.357665Z	  143 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:00:18.358237Z	  143 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:00:48.501247Z	  144 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:00:48.501774Z	  144 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:01:18.803313Z	  145 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:01:18.804067Z	  145 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:01:48.987146Z	  146 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:01:48.987828Z	  146 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:02:19.128195Z	  147 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:02:19.129033Z	  147 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:02:49.286543Z	  148 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:02:49.287214Z	  148 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:03:19.443561Z	  149 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:03:19.444305Z	  149 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:03:49.621357Z	  150 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:03:49.626975Z	  150 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:04:19.946358Z	  151 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:04:19.946910Z	  151 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:04:50.103953Z	  152 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:04:50.104501Z	  152 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:05:20.270001Z	  153 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:05:20.270610Z	  153 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:05:50.446489Z	  154 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:05:50.447243Z	  154 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:06:20.622186Z	  155 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:06:20.622736Z	  155 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:06:50.773378Z	  156 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:06:50.788366Z	  156 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:07:20.953902Z	  157 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:07:20.954663Z	  157 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:07:51.242970Z	  158 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:07:51.243822Z	  158 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:08:21.431510Z	  159 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:08:21.432206Z	  159 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:08:51.585662Z	  160 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:08:51.586274Z	  160 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:09:21.803352Z	  161 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:09:21.803973Z	  161 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:09:51.983888Z	  162 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:09:51.984575Z	  162 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:10:22.232338Z	  163 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:10:22.233057Z	  163 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:10:52.405238Z	  164 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:10:52.405997Z	  164 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:11:22.588562Z	  165 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:11:22.589068Z	  165 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:11:52.756480Z	  166 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:11:52.757149Z	  166 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:12:22.908715Z	  167 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:12:22.909446Z	  167 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:12:53.093881Z	  168 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:12:53.094654Z	  168 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:13:23.277945Z	  169 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:13:23.278642Z	  169 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:13:53.521827Z	  170 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:13:53.522368Z	  170 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:14:23.669196Z	  171 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:14:23.669728Z	  171 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:14:53.902522Z	  172 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:14:53.903254Z	  172 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:15:24.115741Z	  173 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:15:24.116434Z	  173 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
+2019-04-23T17:15:54.279974Z	  174 Connect	root@127.0.0.1 on  using SSL/TLS
+2019-04-23T17:15:54.280565Z	  174 Connect	Access denied for user 'root'@'127.0.0.1' (using password: NO)
